@@ -8,6 +8,6 @@
  *
  * @author Usuario
  */
-public class Class00jdbc {
+public class Class01ConsultaSelect {
 
 }
